@@ -15,8 +15,8 @@
 ## 书单
 ### 技术:computer:
 
-- [x] [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
-- [ ] [免费电子书](https://github.com/EbookFoundation/free-programming-books)
+- :x: [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+- :o: [免费电子书](https://github.com/EbookFoundation/free-programming-books)
 
 ### 效率类
 
