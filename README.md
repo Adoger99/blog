@@ -23,6 +23,7 @@
 - :rocket: [Github上免费的学习资源](https://github.com/EbookFoundation/free-programming-books)
 - :o: [Java 高效编程 第三版](https://github.com/sjsdfg/effective-java-3rd-chinese)
 - :x: [Java编程思想**JDK8** 第五版](https://github.com/LingCoder/OnJava8)
+- :x: [怎样学Java](https://howtodoinjava.com/)
 - :x: [约翰喊你学Java](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ### :moneybag:财务管理
