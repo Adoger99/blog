@@ -21,6 +21,7 @@
 ### :computer:开发技术
 
 - :rocket: [Github上免费的学习资源](https://github.com/EbookFoundation/free-programming-books)
+- :o: [高效 Java 第三版](https://github.com/sjsdfg/effective-java-3rd-chinese)
 - :x: [约翰喊你学Java](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ### :moneybag:财务管理 
