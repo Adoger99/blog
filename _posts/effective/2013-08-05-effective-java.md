@@ -1,4 +1,13 @@
-# 61. 基本数据类型优于包装类
+---
+layout: post
+title: 通用程序设计
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 61. 基本数据类型优于包装类
 
 　　Java 有一个由两部分组成的类型系统，包括基本类型（如 int、double 和 boolean）和引用类型（如 String 和 List）。每个基本类型都有一个对应的引用类型，称为包装类型。与 int、double 和 boolean 对应的包装类是 Integer、Double 和 Boolean。
 

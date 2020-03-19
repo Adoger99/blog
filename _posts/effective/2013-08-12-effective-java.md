@@ -1,4 +1,13 @@
-# 68. 遵守被广泛认可的命名约定
+---
+layout: post
+title: 通用程序设计
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 68. 遵守被广泛认可的命名约定
 
 　　Java 平台有一组完善的命名约定，其中许多约定包含在《The Java Language Specification》[JLS, 6.1]。不严格地讲，命名约定分为两类：排版和语法。
 

@@ -1,4 +1,13 @@
-# 58. for-each 循环优于传统 for 循环
+---
+layout: post
+title: 通用程序设计
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 58. for-each 循环优于传统 for 循环
 
 　　正如在条目 45 中所讨论的，一些任务最好使用 Stream 来完成，一些任务最好使用迭代。下面是一个传统的 for 循环来遍历一个集合:
 
