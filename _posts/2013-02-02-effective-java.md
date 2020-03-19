@@ -1,3 +1,11 @@
+---
+layout: post
+title: 所有对象的通用方法
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
 # 10. 重写 equals 方法时遵守通用约定
 
 

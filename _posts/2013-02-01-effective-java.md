@@ -1,3 +1,11 @@
+---
+layout: post
+title: 所有对象的通用方法
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
 # 9. 使用 try-with-resources 语句替代 try-finally 语句
 
 　　Java 类库中包含许多必须通过调用 `close` 方法手动关闭的资源。 比如 `InputStream`，`OutputStream` 和 `java.sql.Connection`。 客户经常忽视关闭资源，其性能结果可想而知。 尽管这些资源中有很多使用 finalizer 机制作为安全网，但 finalizer 机制却不能很好地工作（详见第 8 条）。
