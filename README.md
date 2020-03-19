@@ -18,12 +18,12 @@
 
 ### :100:工作效率
 - :fire: [怎样在Github上写好Markdown](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
-- :smirk_cat: [Github默认表情符号](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- :smirk_cat: [Github上默认表情包](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ### :computer:开发技术
 
-- :x: [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
-- :o: [免费电子书](https://github.com/EbookFoundation/free-programming-books)
+- :x: [约翰喊你学Java](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+- :o: [Githua上免费的学习资源](https://github.com/EbookFoundation/free-programming-books)
 
 ### :moneybag:财务管理 
 
