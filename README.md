@@ -13,13 +13,15 @@
 </div>
 
 ## :books:必读书单
+
 > 我一生的嗜好，除了革命之外，就是读书。我一天不读书，就不能够生活。——孙中山 
+
+### :100:工作效率
+
 ### :computer:开发技术
 
 - :x: [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 - :o: [免费电子书](https://github.com/EbookFoundation/free-programming-books)
-
-### :100:工作效率
 
 ### :moneybag:财务管理 
 
