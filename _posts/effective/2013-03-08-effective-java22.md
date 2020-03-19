@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-接口仅用来定义类型
 date: 2019-03-08
 Author: 邶城花语
 tags: [高效 Java]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 所有对象的通用方法
+title: 所有对象的通用方法-考虑实现 Comparable 接口
 date: 2019-02-06
 Author: 邶城花语
 tags: [高效 Java]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 所有对象的通用方法
+title: 所有对象的通用方法-重写 equals 方法时同时也要重写 hashcode 方法
 date: 2019-02-03
 Author: 邶城花语
 tags: [高效 Java]

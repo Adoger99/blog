@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 泛型
+title: 泛型-不要使用原始类型
 date: 2019-04-01
 Author: 邶城花语
 tags: [高效 Java]

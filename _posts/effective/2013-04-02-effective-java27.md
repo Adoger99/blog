@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 泛型
+title: 泛型-消除非检查警告
 date: 2019-07-24
 Author: 邶城花语
 tags: [高效 Java]

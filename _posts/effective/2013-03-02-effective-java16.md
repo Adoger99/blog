@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-在公共类中使用访问方法而不是公共属性
 date: 2019-03-02
 Author: 邶城花语
 tags: [高效 Java]

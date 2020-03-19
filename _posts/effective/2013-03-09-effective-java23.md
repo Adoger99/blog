@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-类层次结构优于标签类
 date: 2019-03-09
 Author: 邶城花语
 tags: [高效 Java]

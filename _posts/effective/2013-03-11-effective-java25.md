@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-将源文件限制为单个顶级类
 date: 2019-03-11
 Author: 邶城花语
 tags: [高效 Java]

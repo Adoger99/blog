@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-要么设计继承并提供文档说明，要么禁用继承
 date: 2019-03-05
 Author: 邶城花语
 tags: [高效 Java]

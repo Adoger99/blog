@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-为后代设计接口
 date: 2019-03-07
 Author: 邶城花语
 tags: [高效 Java]

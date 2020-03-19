@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 类与接口
+title: 类与接口-组合优于继承
 date: 2019-03-04
 Author: 邶城花语
 tags: [高效 Java]

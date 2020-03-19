@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 类与接口
-date: 2019-03-10
+date: 2019-03-10-支持使用静态成员类而不是非静态类
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 所有对象的通用方法
+title: 所有对象的通用方法-重写 equals 方法时遵守通用约定
 date: 2019-02-02
 Author: 邶城花语
 tags: [高效 Java]
