@@ -12,8 +12,8 @@
 
 </div>
 
-## ⌨️书单
-### :computer:技术类
+## 书单
+### 技术:computer:
 
 - [x] [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 - [ ] [免费电子书](https://github.com/EbookFoundation/free-programming-books)
@@ -22,7 +22,7 @@
 
 ### 财务类 
 
-## :heart:版权&致谢
+## 版权:heart:致谢
  本站所有收录内容均来自于网络，仅作学习研究用途。未经作者同意严禁用作商业用途，由此产生的一切法律后果与本站无关。
 
 > 本站采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)搭建，感谢原作者的付出！
