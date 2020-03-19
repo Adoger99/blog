@@ -59,8 +59,9 @@ for (ProcessHandle p : iterableOf(ProcessHandle.allProcesses())) {
 
 ```java
 // Adapter from Iterable<E> to Stream<E>
-public static <E> Stream<E> streamOf(Iterable<E> iterable){
-    return StreamSupport.stream(iterable.spliterator(), false);
+public static <E> Stream<E> streamOf(Iterable<E> iterable)
+{
+    return StreamSupport.stream(iterable.spliterator(), false)
 }
 ```
 
