@@ -1,6 +1,6 @@
 # 邶城花语
 
-## 收录书单
+## 书单
 ### 技术类
 
 - [x] [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
