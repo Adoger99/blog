@@ -1,4 +1,13 @@
-# 37. 使用 EnumMap 替代序数索引
+---
+layout: post
+title: 枚举和注解
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 37. 使用 EnumMap 替代序数索引
 
 　　有时可能会看到使用 `ordinal` 方法（详见第 35 条）来索引到数组或列表的代码。 例如，考虑一下这个简单的类来代表一种植物：
 

@@ -1,4 +1,13 @@
-# 36. 使用 EnumSet 替代位属性
+---
+layout: post
+title: 枚举和注解
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 36. 使用 EnumSet 替代位属性
 
 　　如果枚举类型的元素主要用于集合中，一般来说使用 int 枚举模式（详见第 34 条），下面将 2 的不同倍数赋值给每个常量：
 

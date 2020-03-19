@@ -1,4 +1,13 @@
-# 41. 使用标记接口定义类型
+---
+layout: post
+title: 枚举和注解
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 41. 使用标记接口定义类型
 
 　　标记接口（marker interface），是不包含方法声明的接口，只是指定（或「标记」）一个类实现了具有某些属性的接口。 例如，考虑 `Serializable` 接口（第 12 章）。通过实现这个接口，一个类表明它的实例可以写入 `ObjectOutputStream`（或被「序列化」）。
 

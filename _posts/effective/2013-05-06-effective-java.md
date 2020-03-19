@@ -1,4 +1,13 @@
-# 39. 注解优于命名模式
+---
+layout: post
+title: 枚举和注解
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 39. 注解优于命名模式
 
 　　过去，通常使用命名模式（naming patterns）来指示某些程序元素需要通过工具或框架进行特殊处理。 例如，在第 4 版之前，JUnit 测试框架要求其用户通过以 test[Beck04] 开始名称来指定测试方法。 这种技术是有效的，但它有几个很大的缺点。 首先，拼写错误导致失败，但不会提示。 例如，假设意外地命名了测试方法 `tsetSafetyOverride` 而不是 `testSafetyOverride`。 `JUnit 3` 不会报错，但它也不会执行测试，导致错误的安全感。
 
