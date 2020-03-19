@@ -14,8 +14,6 @@
 
 ## :books:必读书单
 
-> 本站所有资料不保证原版，后续会根据实际需求修改。
-
 ### :100:工作效率
 - :fire: [怎样在Github上写好Markdown](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
 - :smirk_cat: [Github上默认表情包](https://www.webfx.com/tools/emoji-cheat-sheet/)
@@ -33,6 +31,8 @@
 
 ## 版权:heart:致谢
  本站所有收录内容均来自于网络，仅作学习研究用途。未经作者同意严禁用作商业用途，由此产生的一切法律后果与本站无关。
+
+ 本站所有资料不保证原版，后续会根据实际需求修改。
 
 > 本站采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)搭建，感谢原作者的付出！
 
