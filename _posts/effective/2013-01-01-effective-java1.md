@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 创建和销毁对象-考虑使用静态工厂方法替代构造方法
-date: 2019-07-24
+date: 2013-01-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

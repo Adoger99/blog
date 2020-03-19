@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 创建和销毁对象-依赖注入优于硬连接资源（hardwiring resources）
-date: 2019-07-24
+date: 2013-01-05
 Author: 邶城花语
 tags: [高效 Java]
 comments: true
