@@ -60,9 +60,7 @@ for (ProcessHandle p : iterableOf(ProcessHandle.allProcesses())) {
 ```java
 // Adapter from Iterable<E> to Stream<E>
 public static <E> Stream<E> streamOf(Iterable<E> iterable)
-{
     return StreamSupport.stream(iterable.spliterator(), false)
-}
 ```
 
 　　如果你正在编写一个返回对象序列的方法，并且它只会在流管道中使用，那么当然可以自由地返回流。类似地，返回仅用于迭代的序列的方法应该返回一个 `Iterable`。但是如果你写一个公共 API，它返回一个序列，你应该为用户提供哪些想写流管道，哪些想写 for-each 语句，除非你有充分的理由相信大多数用户想要使用相同的机制。
