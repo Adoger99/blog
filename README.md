@@ -8,13 +8,11 @@
 
 <div align="center">
  
-一站式学习平台，全方面提升自我的知识库。
+我一生的嗜好，除了革命之外，就是读书。我一天不读书，就不能够生活。——孙中山 
 
 </div>
 
 ## :books:必读书单
-
-> 我一生的嗜好，除了革命之外，就是读书。我一天不读书，就不能够生活。——孙中山 
 
 ### :100:工作效率
 - :fire: [怎样在Github上写好Markdown](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
