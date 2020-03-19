@@ -1,4 +1,13 @@
-# 70. 对可恢复的情况使用受检异常，对编程错误使用运行时异常
+---
+layout: post
+title: 异常
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 70. 对可恢复的情况使用受检异常，对编程错误使用运行时异常
 
 　　Java 程序设计语言提供了三种 throwable：受检异常（checked exceptions）、运行时异常（runtime exceptions）和错误（errors）。程序员中存在着什么情况适合使用哪种 throwable 的困惑。虽然这种决定不总是那么清晰，但还是有一些一般性的原则提出了强有力的指导。
 

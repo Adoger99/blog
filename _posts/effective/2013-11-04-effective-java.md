@@ -1,4 +1,13 @@
-# 88. 保护性的编写 readObject 方法
+---
+layout: post
+title: 序列化
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 88. 保护性的编写 readObject 方法
 
 　　第 50 条介绍了一个不可变的日期范围类，它包含可变的私有变量 `Date`。该类通过在其构造器和访问方法（accessor）中保护性的拷贝 `Date` 对象，极力维护其约束条件和不可变性。该类代码如下所示：
 

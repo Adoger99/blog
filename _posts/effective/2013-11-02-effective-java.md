@@ -1,4 +1,13 @@
-# 86. 非常谨慎地实现 Serializable
+---
+layout: post
+title: 序列化
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 86. 非常谨慎地实现 Serializable
 
 　　使类的实例可序列化非常简单，只需实现 `Serializable` 接口即可。因为这很容易做到，所以有一个普遍的误解，认为序列化只需要程序员付出很少的努力。而事实上要复杂得多。虽然使类可序列化的即时代价可以忽略不计，但长期代价通常是巨大的。
 

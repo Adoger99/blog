@@ -1,4 +1,13 @@
-# 89. 对于实例控制，枚举类型优于 readResolve
+---
+layout: post
+title: 序列化
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 89. 对于实例控制，枚举类型优于 readResolve
 
 　　第 3 条讲述了 Singletion（单例）模式，并且给出了以下这个 Singletion 示例。这个类限制了对其构造器的访问，以确保永远只创建一个实例。
 
