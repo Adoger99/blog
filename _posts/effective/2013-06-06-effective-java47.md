@@ -39,13 +39,11 @@ for  (ProcessHandle ph : (Iterable<ProcessHandle>)ProcessHandle.allProcesses()::
 　　此代码有效，但在实践中使用它太嘈杂和不透明。 更好的解决方法是使用适配器方法。 JDK 没有提供这样的方法，但是使用上面的代码片段中使用的相同技术，很容易编写一个方法。 请注意，在适配器方法中不需要强制转换，因为 Java 的类型推断在此上下文中能够正常工作：
 
 ```java
-// Adapter from  Stream<E> to Iterable<E>
 public static <E> Iterable<E> iterableOf(Stream<E> stream) {
     return stream::iterator;
 }
 ```
-
-　　使用此适配器，可以使用 for-each 语句迭代任何流：
+使用此适配器，可以使用 for-each 语句迭代任何流：
 
 ```java
 for (ProcessHandle p : iterableOf(ProcessHandle.allProcesses())) {
@@ -58,9 +56,8 @@ for (ProcessHandle p : iterableOf(ProcessHandle.allProcesses())) {
 　　相反，如果一个程序员想要使用流管道来处理一个序列，那么一个只提供 `Iterable` 的 API 会让他感到不安。JDK 同样没有提供适配器，但是编写这个适配器非常简单:
 
 ```java
-// Adapter from Iterable<E> to Stream<E>
-public static <E> Stream<E> streamOf(Iterable<E> iterable)
-    return StreamSupport.stream(iterable.spliterator(), false)
+//public static <E> Stream<E> streamOf(Iterable<E> iterable)
+//    return StreamSupport.stream(iterable.spliterator(), false)
 ```
 
 　　如果你正在编写一个返回对象序列的方法，并且它只会在流管道中使用，那么当然可以自由地返回流。类似地，返回仅用于迭代的序列的方法应该返回一个 `Iterable`。但是如果你写一个公共 API，它返回一个序列，你应该为用户提供哪些想写流管道，哪些想写 for-each 语句，除非你有充分的理由相信大多数用户想要使用相同的机制。
