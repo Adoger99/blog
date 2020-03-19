@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 创建和销毁对象-避免使用 Finalizer 和 Cleaner 机制
-date: 2013-01-08
+date: 2019-01-08
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

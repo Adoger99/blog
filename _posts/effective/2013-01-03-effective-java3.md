@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 创建和销毁对象-使用私有构造方法或枚类实现 Singleton 属性
-date: 2013-01-03
+date: 2019-01-03
 Author: 邶城花语
 tags: [高效 Java]
 comments: true
