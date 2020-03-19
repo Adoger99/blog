@@ -26,7 +26,7 @@ for (ProcessHandle ph : ProcessHandle.allProcesses()::iterator) {
 
 ```java
 Test.java:6: error: method reference not expected here
-for (ProcessHandle ph : ProcessHandle.allProcesses()::iterator) {
+for (ProcessHandle ph : ProcessHandle.allProcesses()::iterator)
 ```
 
 　　为了使代码编译，必须将方法引用强制转换为适当参数化的 `Iterable` 类型：
@@ -81,7 +81,7 @@ public class PowerSet {
          @Override 
          public int size() {
             return 1 << src.size(); // 2 to the power srcSize
-         }
+            }
 
          @Override
          public boolean contains(Object o) {
@@ -111,23 +111,23 @@ public class PowerSet {
 
 ```java
 // Returns a stream of all the sublists of its input list
-public class SubLists {
+// public class SubLists {
 
-   public static <E> Stream<List<E>> of(List<E> list) {
-      return Stream.concat(Stream.of(Collections.emptyList()),
-         prefixes(list).flatMap(SubLists::suffixes));
-   }
+//    public static <E> Stream<List<E>> of(List<E> list) {
+//       return Stream.concat(Stream.of(Collections.emptyList()),
+//          prefixes(list).flatMap(SubLists::suffixes));
+//    }
 
-   private static <E> Stream<List<E>> prefixes(List<E> list) {
-      return IntStream.rangeClosed(1, list.size())
-         .mapToObj(end -> list.subList(0, end));
-   }
+//    private static <E> Stream<List<E>> prefixes(List<E> list) {
+//       return IntStream.rangeClosed(1, list.size())
+//          .mapToObj(end -> list.subList(0, end));
+//    }
 
-   private static <E> Stream<List<E>> suffixes(List<E> list) {
-      return IntStream.range(0, list.size())
-         .mapToObj(start -> list.subList(start, list.size()));
-   }
-}
+//    private static <E> Stream<List<E>> suffixes(List<E> list) {
+//       return IntStream.range(0, list.size())
+//          .mapToObj(start -> list.subList(start, list.size()));
+//    }
+// }
 ```
 
 　　请注意，`Stream.concat` 方法用于将空列表添加到返回的流中。 还有，`flatMap` 方法（条目 45）用于生成由所有前缀的所有后缀组成的单个流。 最后，通过映射 `IntStream.range` 和 `IntStream.rangeClosed` 返回的连续 int 值流来生成前缀和后缀。这个习惯用法，粗略地说，流等价于整数索引上的标准 for 循环。因此，我们的子列表实现似于明显的嵌套 for 循环:
