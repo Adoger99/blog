@@ -12,15 +12,15 @@
 
 </div>
 
-## 书单
-### 技术:computer:
+## :books:书单
+### :computer:开发技术
 
 - :x: [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 - :o: [免费电子书](https://github.com/EbookFoundation/free-programming-books)
 
-### 效率类
+### :100:工作效率
 
-### 财务类 
+### :moneybag:财务管理 
 
 ## 版权:heart:致谢
  本站所有收录内容均来自于网络，仅作学习研究用途。未经作者同意严禁用作商业用途，由此产生的一切法律后果与本站无关。
