@@ -20,4 +20,4 @@
 > 本站采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)搭建，感谢原作者的付出！
 
 这是一个可以直接发布在GitHub page的Jekyll博客，你不需要编写代码或使用命令行即可配置属于你的LOFFER。
-如有疑问，请阅读官方说明。
+如有疑问，请阅读[官方说明](https://pages.github.com/)。
