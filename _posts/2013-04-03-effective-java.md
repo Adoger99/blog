@@ -1,4 +1,12 @@
-# 28. 列表优于数组
+---
+layout: post
+title: 泛型
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+### 28. 列表优于数组
 
 　　数组在两个重要方面与泛型不同。 首先，数组是协变的（covariant）。 这个吓人的单词意味着如果 Sub 是 Super 的子类型，则数组类型 `Sub[]` 是数组类型 `Super[]` 的子类型。 相比之下，泛型是不变的（invariant）：对于任何两种不同的类型 `Type1` 和 `Type2`，`List<Type1>` 既不是 `List<Type2>` 的子类型也不是父类型。[JLS，4.10; Naftalin07, 2.5]。 你可能认为这意味着泛型是不足的，但可以说是数组缺陷。 这段代码是合法的：
 
