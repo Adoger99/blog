@@ -14,6 +14,8 @@
 
 ## :books:必读书单
 
+> 本站所有资料不保证原版，后续会根据实际需求修改。
+
 ### :100:工作效率
 - :fire: [怎样在Github上写好Markdown](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
 - :smirk_cat: [Github上默认表情包](https://www.webfx.com/tools/emoji-cheat-sheet/)
