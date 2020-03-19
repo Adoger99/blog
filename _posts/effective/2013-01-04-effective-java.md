@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 创建和销毁对象
+title: 创建和销毁对象-使用私有构造方法执行非实例化
 date: 2019-07-24
 Author: 邶城花语
 tags: [高效 Java]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 所有对象的通用方法
+title: 所有对象的通用方法-使用 try-with-resources 语句替代 try-finally 语句
 date: 2019-07-24
 Author: 邶城花语
 tags: [高效 Java]
