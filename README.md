@@ -1,7 +1,8 @@
 # 待收录书单
 
 ## 技术类
-[][Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+
+[x] [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ## 效率类
 
