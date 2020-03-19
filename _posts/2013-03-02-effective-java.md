@@ -6,6 +6,7 @@ Author: 邶城花语
 tags: [高效 Java]
 comments: true
 ---
+
 ### 16. 在公共类中使用访问方法而不是公共属性
 
 　　有时候，你可能会试图写一些退化的类（[degenerate classes](https://stackoverflow.com/questions/6810982/what-is-a-degenerate-class)），除了集中实例属性之外别无用处：

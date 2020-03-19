@@ -6,6 +6,7 @@ Author: 邶城花语
 tags: [高效 Java]
 comments: true
 ---
+
 ### 1. 考虑使用静态工厂方法替代构造方法
 
 

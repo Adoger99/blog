@@ -6,6 +6,7 @@ Author: 邶城花语
 tags: [高效 Java]
 comments: true
 ---
+
 ### 2. 当构造方法参数过多时使用 builder 模式
 
 
