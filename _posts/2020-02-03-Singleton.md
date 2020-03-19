@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 单例模式
-date: 2019-06-02
+date: 2020-02-03
 author: 邶城花语
 tags: [设计模式]
 comments: true
