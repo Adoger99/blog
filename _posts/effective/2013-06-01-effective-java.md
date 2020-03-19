@@ -1,4 +1,13 @@
-# 42. lambda 表达式优于匿名类
+---
+layout: post
+title: Lambdas和Streams
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 42. lambda 表达式优于匿名类
 
 　　在 Java 8 中，添加了函数式接口，`lambda` 表达式和方法引用，以便更容易地创建函数对象。 Stream API 随着其他语言的修改一同被添加进来，为处理数据元素序列提供类库支持。 在本章中，我们将讨论如何充分利用这些功能。
 

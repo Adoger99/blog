@@ -1,4 +1,13 @@
-# 48. 谨慎使用流并行
+---
+layout: post
+title: Lambdas和Streams
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 48. 谨慎使用流并行
 
 　　在主流语言中，Java 一直处于提供简化并发编程任务的工具的最前沿。 当 Java 于 1996 年发布时，它内置了对线程的支持，包括同步和 wait / notify 机制。 Java 5 引入了 `java.util.concurrent` 类库，带有并发集合和执行器框架。 Java 7 引入了 fork-join 包，这是一个用于并行分解的高性能框架。 Java 8 引入了流，可以通过对 `parallel` 方法的单个调用来并行化。 用 Java 编写并发程序变得越来越容易，但编写正确快速的并发程序还像以前一样困难。 安全和活跃度违规（liveness violation）是并发编程中的事实，并行流管道也不例外。
 

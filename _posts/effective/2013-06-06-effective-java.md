@@ -1,4 +1,13 @@
-# 47. 优先使用 Collection 而不是 Stream 来作为方法的返回类型
+---
+layout: post
+title: Lambdas和Streams
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 47. 优先使用 Collection 而不是 Stream 来作为方法的返回类型
 
 　　许多方法返回元素序列（sequence）。在 Java 8 之前，通常方法的返回类型是 `Collection`，`Set` 和 `List` 这些接口；还包括 `Iterable` 和数组类型。通常，很容易决定返回哪一种类型。规范（norm）是集合接口。如果该方法仅用于启用 for-each 循环，或者返回的序列不能实现某些 `Collection` 方法 (通常是 `contains(Object)`)，则使用迭代（`Iterable`）接口。如果返回的元素是基本类型或有严格的性能要求，则使用数组。在 Java 8 中，将流（Stream）添加到平台中，这使得为序列返回方法选择适当的返回类型的任务变得非常复杂。
 

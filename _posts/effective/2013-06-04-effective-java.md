@@ -1,4 +1,13 @@
-# 45. 明智审慎地使用 Stream
+---
+layout: post
+title: Lambdas和Streams
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 45. 明智审慎地使用 Stream
 
 　　在 Java 8 中添加了 Stream API，以简化顺序或并行执行批量操作的任务。 该 API 提供了两个关键的抽象：流 (Stream)，表示有限或无限的数据元素序列，以及流管道 (stream pipeline)，表示对这些元素的多级计算。 Stream 中的元素可以来自任何地方。 常见的源包括集合，数组，文件，正则表达式模式匹配器，伪随机数生成器和其他流。 流中的数据元素可以是对象引用或基本类型。 支持三种基本类型：int，long 和 double。
 
