@@ -1,4 +1,13 @@
-# 54. 返回空的数组或集合，不要返回 null
+---
+layout: post
+title: 方法
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 54. 返回空的数组或集合，不要返回 null
 
 　　像如下的方法并不罕见：
 

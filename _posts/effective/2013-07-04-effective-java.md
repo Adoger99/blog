@@ -1,4 +1,13 @@
-# 52. 明智审慎地使用重载
+---
+layout: post
+title: 方法
+date: 2019-07-24
+Author: 邶城花语
+tags: [高效 Java]
+comments: true
+---
+
+### 52. 明智审慎地使用重载
 
 　　下面的程序是一个善意的尝试，根据 Set、List 或其他类型的集合对它进行分类：
 
