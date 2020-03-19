@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 类与接口
-date: 2019-07-24
+date: 2013-03-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true
