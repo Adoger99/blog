@@ -12,7 +12,8 @@
 
 </div>
 
-## :books:书单
+## :books:必读书单
+我一生的嗜好，除了革命之外，就是读书。我一天不读书，就不能够生活。——孙中山 
 ### :computer:开发技术
 
 - :x: [Java指南](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
