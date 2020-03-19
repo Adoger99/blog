@@ -3,7 +3,7 @@ layout: post
 title: 类与接口
 date: 2019-07-24
 Author: 邶城花语
-tags: [高效Java]
+tags: [高效 Java]
 comments: true
 ---
 ### 16. 在公共类中使用访问方法而不是公共属性
