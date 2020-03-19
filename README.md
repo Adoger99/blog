@@ -23,7 +23,7 @@
 ### :computer:开发技术
 
 - :x: [约翰喊你学Java](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
-- :o: [Githua上免费的学习资源](https://github.com/EbookFoundation/free-programming-books)
+- :o: [Github上免费的学习资源](https://github.com/EbookFoundation/free-programming-books)
 
 ### :moneybag:财务管理 
 
