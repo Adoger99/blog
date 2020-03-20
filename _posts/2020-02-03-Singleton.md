@@ -5,8 +5,6 @@ date: 2020-02-03
 author: 邶城花语
 tags: [设计模式]
 comments: true
-toc: true
-pinned: true
 ---
 
 为了实现Singleton模式，我们有不同的方法，但是所有方法都具有以下共同概念。
