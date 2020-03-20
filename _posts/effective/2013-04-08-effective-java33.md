@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 泛型
-date: 2019-07-24
+title: 泛型-优先考虑类型安全的异构容器
+date: 2019-04-08
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

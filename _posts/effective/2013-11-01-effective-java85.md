@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 序列化
-date: 2019-07-24
+title: 序列化-优先选择 Java 序列化的替代方案
+date: 2019-11-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

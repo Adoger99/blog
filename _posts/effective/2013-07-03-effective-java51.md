@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 方法
-date: 2019-07-24
+title: 方法-仔细设计方法签名
+date: 2019-07-03
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

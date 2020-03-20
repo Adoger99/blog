@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 异常
-date: 2019-07-24
+title: 异常-对可恢复的情况使用受检异常，对编程错误使用运行时异常
+date: 2019-09-02
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 枚举和注解
-date: 2019-07-24
+title: 枚举和注解-使用 EnumMap 替代序数索引
+date: 2019-05-04
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 枚举和注解
-date: 2019-07-24
+title: 枚举和注解-使用枚举类型替代整型常量
+date: 2019-05-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

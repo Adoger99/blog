@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 通用程序设计
-date: 2019-07-24
+title: 通用程序设计-当使用其他类型更合适时应避免使用字符串
+date: 2019-08-06
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

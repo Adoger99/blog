@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 异常
-date: 2019-07-24
+title: 异常-每个方法抛出的异常都需要创建文档
+date: 2019-09-06
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

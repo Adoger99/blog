@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 异常
-date: 2019-07-24
+title: 异常-只针对异常的情况下才使用异常
+date: 2019-09-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 方法
-date: 2019-07-24
+title: 方法-返回空的数组或集合，不要返回 null
+date: 2019-07-06
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 枚举和注解
-date: 2019-07-24
+title: 枚举和注解-使用实例属性替代序数
+date: 2019-05-02
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

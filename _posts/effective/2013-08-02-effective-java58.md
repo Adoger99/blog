@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 通用程序设计
-date: 2019-07-24
+title: 通用程序设计-for-each 循环优于传统 for 循环
+date: 2019-08-02
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

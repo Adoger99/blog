@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 通用程序设计
-date: 2019-07-24
+title: 通用程序设计-明智审慎地进行优化
+date: 2019-08-11
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

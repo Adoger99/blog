@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 泛型
-date: 2019-07-24
+title: 泛型-优先考虑泛型
+date: 2019-04-04
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

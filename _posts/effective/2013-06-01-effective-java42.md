@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lambdas和Streams
-date: 2019-07-24
+title: Lambdas和Streams-lambda 表达式优于匿名类
+date: 2019-06-01
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

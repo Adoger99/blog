@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 高并发
-date: 2019-07-24
+title: 高并发-文档应包含线程安全属性
+date: 2019-10-05
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 泛型
-date: 2019-07-24
+title: 泛型-列表优于数组
+date: 2019-04-03
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

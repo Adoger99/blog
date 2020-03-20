@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lambdas和Streams
-date: 2019-07-24
+title: Lambdas和Streams-谨慎使用流并行
+date: 2019-06-07
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

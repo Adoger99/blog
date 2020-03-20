@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 高并发
-date: 2019-07-24
+title: 高并发-明智审慎的使用延迟初始化
+date: 2019-11-06
 Author: 邶城花语
 tags: [高效 Java]
 comments: true

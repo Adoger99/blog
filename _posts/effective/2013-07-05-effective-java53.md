@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 方法
-date: 2019-07-24
+title: 方法-明智审慎地使用可变参数
+date: 2019-07-05
 Author: 邶城花语
 tags: [高效 Java]
 comments: true
