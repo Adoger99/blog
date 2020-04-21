@@ -8,8 +8,9 @@ layout: default
 
 <div class="posts">
   
-  {% for post in site.posts %}
-    {% if post.pinned==true %}
+  {% for post in site.posts %}  
+    {% unless post.pinned %}
+   <!-- {% if post.pinned==true %}  -->
       <article class="post">
          <!-- <article class="post pinned">  -->
         <h1>
