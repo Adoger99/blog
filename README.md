@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="http://ant.design">
-    <img width="200" src="https://raw.githubusercontent.com/xadoger/blog/master/images/logo.png">
-  </a>
-</p>
-
 <h1 align="center">邶城花语</h1>
 
 <div align="center">
