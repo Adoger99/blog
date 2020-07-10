@@ -5,8 +5,6 @@ date: 2019-01-05
 Author: 邶城花语
 tags: [高效 Java]
 comments: true
-toc: true
-pinned: true
 ---
 
 ### 05.  依赖注入优于硬连接资源（hardwiring resources）
