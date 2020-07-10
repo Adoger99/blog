@@ -3,16 +3,16 @@ layout: default
 ---
 
 {% if site.posts.size == 0 %}
-  <h2>未找到文章</h2>
+  <h2>No post found</h2>
 {% endif %}
 
 <div class="posts">
   
-  {% for post in site.posts %}  
+  {% for post in site.posts %}
     {% if post.pinned==true %}
-      <article class="post">
+      <article class="post pinned">
         <h1>
-            <i data-feather="anchor"></i></span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <span title="pinned"><i data-feather="anchor"></i></span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h1>
 
         <div clsss="meta">
@@ -34,24 +34,23 @@ layout: default
             </li>
             {% endfor %}
           </ul>
+
           <script>
             feather.replace()
           </script>
-
         </div>
 
         <div class="entry">
           {{ post.excerpt | truncate: 200 }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">阅读更多</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endif %}
   {% endfor %}
-
+  
   {% for post in paginator.posts %}
-      {% unless post.pinned %}
-<!--     {% if post.pinned==true %} -->
+    {% unless post.pinned %}
     <article class="post">
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -82,7 +81,7 @@ layout: default
         {{ post.excerpt | truncate: 200 }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">阅读更多</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
     {% endunless %}
   {% endfor %}
