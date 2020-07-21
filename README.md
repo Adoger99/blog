@@ -5,7 +5,7 @@
 <h6>为中华之崛起而读书！——周恩来</h6> 
 <h3>书山有路勤为径，学海无涯苦作舟</h3>
 <h6>我一生的嗜好，除了革命之外，就是读书。我一天不读书，就不能够生活。——孙中山</h6> 
- <iframe src="//player.bilibili.com/player.html?aid=668913982&bvid=BV1ba4y1a7U6&cid=213551311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<video width=100% controls="" autoplay="" name="media"><source src="http://vali.cp31.ott.cibntv.net.qn302.myalicdn.com/69755120B234171B0C3DD568B/03000A0E005EF83CA6B532305CF07D32C8E99B-6AC4-4BD8-A7F4-832B301A8C18.mp4?ccode=0512&amp;duration=389&amp;expire=18000&amp;psid=0e544ec6342ba4f12602560a9d792b7c42c82&amp;ups_client_netip=73abdedd&amp;ups_ts=1595345242&amp;ups_userid=&amp;utid=p3KDF3GjumgCAXOr3imfMa79&amp;vid=XNDcyNjI2Nzc1Ng&amp;vkey=B5e4b8920b0b5c2423443817efc134ba7&amp;eo=1&amp;bc=2&amp;dre=u20&amp;si=44&amp;dst=1&amp;ali_redirect_domain=vali.cp31.ott.cibntv.net&amp;ali_redirect_ex_ftag=054634c2feb701794b388b8666ca5fdece57103f8bf46547&amp;ali_redirect_ex_tmining_ts=1595345253&amp;ali_redirect_ex_tmining_expire=3600&amp;ali_redirect_ex_hot=0" type="video/mp4"></video>
 </div>
 
 
